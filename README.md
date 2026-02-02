@@ -1,2 +1,2 @@
 # pietsmiet-calendar
-ietSmiet Contentplan als iCal Feed
+pietSmiet Contentplan als iCal Feed
